@@ -1,4 +1,4 @@
 {
-    "npcVoices":"/npcVoices.json",
+    "npcVoice":"/npcVoice.json",
     "npcAbility":"/npcAbility.json"
 }
