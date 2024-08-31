@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name":"Example 1",
+        "image":"https://example.com/ability1.png",
+        "BlobStorageLocation":"https://example.com/ability1.mp3"
+    },
+    {
+        "id":2,
+        "name":"Example 2",
+        "image":"https://example.com/ability2.png",
+        "BlobStorageLocation":"https://example.com/ability2.mp3"
+    }
+]

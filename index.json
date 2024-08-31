@@ -1,1 +1,4 @@
-{}
+{
+    "npcVoices":"/npcVoices.json",
+    "npcAbility":"/npcAbility.json"
+}
