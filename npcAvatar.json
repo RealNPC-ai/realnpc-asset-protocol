@@ -2,11 +2,11 @@
     {
         "id":1,
         "name":"Npc1",
-        "resource":"http://sk6ayn6v4.bkt.gdipper.com/ququ1.unity3d"
+        "BlobStorageLocation":"http://sk6ayn6v4.bkt.gdipper.com/ququ1.unity3d"
     },
     {
         "id":2,
         "name":"Npc2",
-        "resource":"http://sk6ayn6v4.bkt.gdipper.com/ququ2.unity3d"
+        "BlobStorageLocation":"http://sk6ayn6v4.bkt.gdipper.com/ququ2.unity3d"
     }
 ]
