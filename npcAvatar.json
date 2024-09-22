@@ -1,12 +1,12 @@
 [
     {
         "id":1,
-        "name":"Npc1",
+        "name":"Example 1",
         "BlobStorageLocation":"http://sk6ayn6v4.bkt.gdipper.com/ququ1.unity3d"
     },
     {
         "id":2,
-        "name":"Npc2",
+        "name":"Example 2",
         "BlobStorageLocation":"http://sk6ayn6v4.bkt.gdipper.com/ququ2.unity3d"
     }
 ]
