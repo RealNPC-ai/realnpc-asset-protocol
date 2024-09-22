@@ -1,4 +1,5 @@
 {
+    "npcCharacter":"/npcAvatar.json",
     "npcVoice":"/npcVoice.json",
     "npcAbility":"/npcAbility.json"
 }
