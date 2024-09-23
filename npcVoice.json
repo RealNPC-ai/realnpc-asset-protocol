@@ -2,11 +2,15 @@
     {
         "id":1,
         "name":"Example 1",
-        "BlobStorageLocation":"https://example.com/voice1.mp3"
+        "BlobStorageLocation":"https://example.com/voice1.mp3",
+        "audioPath":"/dockertmp/dongxuelian.wav",
+        "audioPrompt":"我之前有个挺喜欢的小就小妹妹，也不是小妹妹，他比我小、个。"
     },
     {
         "id":2,
         "name":"Example 2",
-        "BlobStorageLocation":"https://example.com/voice2.mp3"
+        "BlobStorageLocation":"https://example.com/voice2.mp3",
+        "audioPath":"/dockertmp/minuo.wav",
+        "audioPrompt":"向你道歉，有点有点难过了，心里有点难过，你懂吗？悲从中来一下子。"
     }
 ]
